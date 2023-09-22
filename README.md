@@ -27,3 +27,21 @@ The web app displays items in a unique format, such as cards, rather than lists 
 
 
 Click [here](https://hollowknightv1.up.railway.app) to access project!
+
+Listicle Part 2
+
+🎯 Goals
+By the end of this assignment you will be able to...
+
+Create a PostgreSQL database and table [✅]
+Display data from a PostgreSQL database in a web app [✅]
+
+Required Features
+The web app uses only HTML, CSS, and JavaScript without a frontend framework. [✅]
+The web app is connected to a PostgreSQL database. [✅]
+The PostgreSQL database includes a table that matches the data displayed in the web app. [✅]
+
+Stretch Features
+The user can search for items with a specific attribute [✅]
+
+
