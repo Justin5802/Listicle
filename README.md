@@ -12,3 +12,6 @@ The web app displays at least five list items, each with at least three attribut
 The user can click on each item in the list to see a detailed view of it, including all database fields [✅]
 The web app serves an appropriate 404 page when no matching route is defined [✅]
 The web app is appropriately styled using Picocss [✅]
+
+Stretch Features
+The web app displays items in a unique format, such as cards, rather than lists [✅]
