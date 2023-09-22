@@ -15,3 +15,4 @@ The web app is appropriately styled using Picocss [✅]
 
 Stretch Features
 The web app displays items in a unique format, such as cards, rather than lists [✅]
+
