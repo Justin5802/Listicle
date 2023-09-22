@@ -16,5 +16,4 @@ The web app is appropriately styled using Picocss [✅]
 Stretch Features
 The web app displays items in a unique format, such as cards, rather than lists [✅]
 
-<a href-"https://hollowknightv1.up.railway.app">Click here to access project!</a>
-
+Click [here](https://hollowknightv1.up.railway.app) to access project!
